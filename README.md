@@ -13,7 +13,8 @@ This project was done as a team by me and [@Farzaneh Koohestani](https://github.
 # Usage
 * make 
 * ./green_test to execute green_test.c code
-# Support:
+
+## Support:
 
 **Contact me @:**
 
@@ -21,7 +22,12 @@ e-mail:
 
 * farzanehkoohestani2000@gmail.com
 
-telegram id: [@farzaneh_koohestani](https://t.me.farzaneh_koohestani)
+telegram id: 
+* [@farzaneh_koohestani](https://t.me.farzaneh_koohestani)
 
+## License
 
+[MIT](https://github.com/fark00/User-Level-Thread-Library/blob/main/LICENSE)
+&#0169;
+[Farzaneh Koohetani](https://github.com/fark00)
 
