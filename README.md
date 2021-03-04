@@ -17,7 +17,11 @@ This project was done as a team by me and [@Farzaneh Koohestani](https://github.
 
 **Contact me @:**
 
-e-mail: r.abtahi1378@gmail.com
+e-mail: 
 
-telegram id: @Reyhan_abt
+* farzanehkoohestani2000@gmail.com
+
+telegram id: [@farzaneh_koohestani](https://t.me.farzaneh_koohestani)
+
+
 
