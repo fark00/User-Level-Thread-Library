@@ -11,7 +11,7 @@ This project was done as a team by me and [@ReyhaneAbtahi](https://github.com/Re
 ## Requirement  
 * gcc compiler
 * linux operating system 
-* 
+
 ## Usage
 * make 
 * ./green_test to execute green_test.c code
